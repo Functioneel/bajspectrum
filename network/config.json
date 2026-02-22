@@ -5,21 +5,21 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "Functioneel"
   },
   "text": {
     "more": "",
     "intro": "",
-    "title": ""
+    "title": "Bajspectrum"
   },
   "legend": {
-    "edgeLabel": "Edge",
-    "colorLabel": "Color",
-    "nodeLabel": "Node"
+    "edgeLabel": "",
+    "colorLabel": "",
+    "nodeLabel": ""
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Modularity Class",
+    "groupSelectorAttribute": false,
     "hoverBehavior": "dim"
   },
   "informationPanel": {
@@ -32,8 +32,8 @@
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
-      "defaultLabelColor": "#eee",
-      "labelThreshold": 7,
+      "defaultLabelColor": "#fff",
+      "labelThreshold": 6,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
@@ -43,7 +43,7 @@
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 15
+      "maxNodeSize": 7
     },
     "mouseProperties": {
       "maxRatio": 20,
